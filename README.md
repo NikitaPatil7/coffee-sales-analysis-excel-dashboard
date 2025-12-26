@@ -128,12 +128,7 @@ A **clean, interactive, and business-ready Excel dashboard** that supports data-
 
 ---
 
-## 📎 Project Type
-- Excel Data Analysis  
-- Business Intelligence  
-- Dashboarding & Visualization  
-
-## 📎 Project Type
+## Project Type
 - Excel Data Analysis  
 - Business Intelligence  
 - Dashboarding & Visualization  
